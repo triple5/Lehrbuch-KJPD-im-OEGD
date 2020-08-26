@@ -7,7 +7,7 @@ DOI <a href="https://doi.org/10.25815/aacp-4461" title="https://doi.org/10.25815
 Datum 2020<br/>
 Ort Berlin</p>
 
-Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/">https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/screen-pdf/spdi_v1.pdf) | Print-on-demand (add link)
+Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/">https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/screen-pdf/spdi_v1.pdf) | Print-on-demand (add links)
 
 Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/spdi/webbuch/index.html#src=SpDi/spdi-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/screen-pdf/spdi_v1.pdf)
 
