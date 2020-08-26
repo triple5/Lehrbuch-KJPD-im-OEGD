@@ -1,3 +1,15 @@
+# Impressum
+
+<p>Sozialpsychiatrischer Dienst (SpD)<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-3-9812871-6-5<br/>
+DOI <a href="https://doi.org/10.25815/aacp-4461" title="https://doi.org/10.25815/aacp-4461">10.25815/aacp-4461</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
+
+Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/">https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/screen-pdf/spdi_v1.pdf) | Print-on-demand (add link)
+
+Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/webbuch/index.html#src=SpDi/spdi-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/screen-pdf/spdi_v1.pdf)
 
 # Über das Lehrbuch
 
