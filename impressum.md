@@ -4,6 +4,12 @@ title: c. Impressum
 nav_order: 16
 ---
 
+<p>Der Sozialpsychiatrischer Dienst<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-3-9812871-6-5<br/>
+DOI <a href="https://doi.org/10.25815/aacp-4461" title="https://doi.org/10.25815/aacp-4461">10.25815/aacp-4461</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
 
 <p>© 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">https://creativecommons.org/licenses/by-sa/4.0/deed.de</a></p>
 
