@@ -315,7 +315,7 @@ Psychiatrieberichterstattung.
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Regionalmodell für ein abgestuftes Hilfesystem sozialer Infrastruktur">Regionalmodell
 für ein abgestuftes Hilfesystem sozialer
-Infrastruktur</span>](6bcad857-a414-46f3-8a9e-c87c1bf62664.jpg)
+Infrastruktur</span>](images/6bcad857-a414-46f3-8a9e-c87c1bf62664.jpg)
 
 Wesentlich für den Erfolg **kommunaler Psychiatrieplanung** ist die
 Verknüpfung der Ebenen individueller, institutioneller und regionaler
@@ -396,7 +396,7 @@ hilfsbedürftigen Person. 
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Typologie therapeutischer Haltungen bei misslingendem Dialog">Typologie
 therapeutischer Haltungen bei misslingendem
-Dialog</span>](cdc827d5-aad0-4538-8997-e623c2d41054.jpg)
+Dialog</span>](images/cdc827d5-aad0-4538-8997-e623c2d41054.jpg)
 
 ### Interdisziplinäres Team
 
@@ -488,7 +488,7 @@ Anzeichen für Unter-, Über- und Fehlversorgung.
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Akteure und Zentren der Zusammenarbeit in der Gemeindepsychiatrie">Akteure
 und Zentren der Zusammenarbeit in der
-Gemeindepsychiatrie</span>](8cef0f0b-f562-4612-b0cd-6c7eafe2228d.jpg)
+Gemeindepsychiatrie</span>](images/8cef0f0b-f562-4612-b0cd-6c7eafe2228d.jpg)
 
 Die zahlreichen Leistungsträger und Anbieter von Hilfen befinden sich in
 einer zunehmend marktwirtschaftlich geprägten Konkurrenz und arbeiten

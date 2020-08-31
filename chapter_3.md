@@ -1477,7 +1477,7 @@ Fallbeispiele)
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Juristische Bezeichnungen, Unterbringung bei Eigen- und Fremdgefährdung.png">Juristische
 Bezeichnungen, Unterbringung bei Eigen- und
-Fremdgefährdung.png</span>](3e5d80a2-785e-49d6-93b7-0ca9e7d0ad2b.jpg)
+Fremdgefährdung.png</span>](images/3e5d80a2-785e-49d6-93b7-0ca9e7d0ad2b.jpg)
 
 ### **Juristische Begrifflichkeiten bei Eigen- und Fremdgefährdung**
 
