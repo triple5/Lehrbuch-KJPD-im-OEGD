@@ -153,8 +153,7 @@ Behörden (z.B. Polizei, Allgemeiner Sozialer Dienst im Jugend- oder
 Sozialamt, Arbeitsagentur, Ordnungsamt) oder medizinische Dienste
 (Hausarzt, Krankenhaus).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Ablauf des Erstkontaktes">Ablauf
-des Erstkontaktes</span>](8bbbd0c2-81d5-4bd7-9fd6-bf6b304bfbe6.jpg)
+{% include image.html url="images/8bbbd0c2-81d5-4bd7-9fd6-bf6b304bfbe6.jpg" description="Abbildung 16: Ablauf des Erstkontaktes" %}
 
 Wie es dann weitergeht, hängt maßgeblich davon ab, ob eine Beratung und
 im Weiteren ggf. Begleitung geboten ist, oder ob es sich um eine Krise

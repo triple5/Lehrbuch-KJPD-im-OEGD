@@ -221,8 +221,8 @@ dargestellt:
 
 Vorgehen bei der niederschwelligen Beratung (Kernaufgabe 1A) 
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Fluss-Schema Beratung">Fluss-Schema
-Beratung</span>](eb93d289-00ad-4fe2-8af7-a14bdae7fff2.jpg)
+{% include image.html url="images/eb93d289-00ad-4fe2-8af7-a14bdae7fff2.jpg" description="Abbildung 17: Fluss-Schema
+Beratung" %}
 
 ## Kernaufgabe 2: Krisenintervention 
 
@@ -344,8 +344,8 @@ und Bewältigung akuter Selbst- und Fremdgefährdung, die das
 Gefährdungspotenzial umsichtig abschätzen und notfalls eine
 Unterbringung auf qualifizierte Weise einleiten und begleiten kann. 
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Fluss-Schema Krisenintervention">Fluss-Schema
-Krisenintervention</span>](0e38e336-14f9-4184-b4bb-0cfb9aa7d103.jpg)
+{% include image.html url="images/0e38e336-14f9-4184-b4bb-0cfb9aa7d103.jpg" description="Abbildung 18: Fluss-Schema
+Krisenintervention" %}
 
 In wenigen Bundesländern (Schleswig-Holstein, Brandenburg) gibt das
 PsychKG einen solchen mit fachlich qualifizierten Ärztinnen und Ärzten
@@ -364,10 +364,7 @@ Beispielhaft seien hier die Effekte eines solchen Dienstes im Kreis
 Ostholstein gezeigt, der die “Verschleppung” der betroffenen Menschen in
 die Klinik zur Klärung und Diagnostik vermeidet:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Maßnahmen bei aufsuchenden Einsätzen im Rufbereitschaftsdienst (n=216 aufsuchende Einsätze außerhalb der regulären Dienstzeit des SpDi)">Maßnahmen
-bei aufsuchenden Einsätzen im Rufbereitschaftsdienst (n=216 aufsuchende
-Einsätze außerhalb der regulären Dienstzeit des
-SpDi)</span>](534125c8-73c5-411c-8bed-9cfa2e14280a.jpg)
+{% include image.html url="images/534125c8-73c5-411c-8bed-9cfa2e14280a.jpg" description="Abbildung 19: Maßnahmen bei aufsuchenden Einsätzen im Rufbereitschaftsdienst (n=216 aufsuchende Einsätze außerhalb der regulären Dienstzeit des SpDi)" %}
 
 ## Kernaufgabe 3: Planung & Koordination von Hilfen im Einzelfall
 
@@ -474,9 +471,7 @@ Lebensform wird ein Maßnahmenplan verhandelt, umgesetzt und überprüft.
 Wenn immer möglich sollen vorzugsweise allgemeine gesundheitliche und
 soziale Hilfen genutzt werden.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Integrierte Hilfeplanung (modifiziert nach Gromann, 2001)">Integrierte
-Hilfeplanung (modifiziert nach Gromann,
-2001)</span>](954300a5-45a1-4a85-bbf4-c71082d60d9e.jpg)
+{% include image.html url="images/954300a5-45a1-4a85-bbf4-c71082d60d9e.jpg" description="Abbildung 20: Integrierte Hilfeplanung (modifiziert nach Gromann, 2001)" %}
 
 ### Feststellung der wesentlichen Behinderung 
 
@@ -514,8 +509,8 @@ diagnostischen Verfahren jedoch nicht direkt erfasst werden kann. Auch
 hier ist natürlich relevant, die persönlichen Ressourcen wie die
 Umfeldfaktoren zu betrachten, um die Teilhabestörung zu beurteilen.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Faktoren der Teilhabestörung">Faktoren
-der Teilhabestörung</span>](1ded1a4d-c34b-4fa3-aeb2-e164bb884828.jpg)
+{% include image.html url="images/1ded1a4d-c34b-4fa3-aeb2-e164bb884828.jpg" description="Abbildung 21: Faktoren
+der Teilhabestörung" %}
 
 Oft benötigen sowohl die betroffenen Personen selbst, als auch die
 Leistungserbringer und Leistungsträger Unterstützung, um den
