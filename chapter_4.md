@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 03. Grundlagen der praktischen Arbeit
+title: Grundlagen der praktischen Arbeit
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 Der sozialpsychiatrische Dienst ist in der Bevölkerung relativ wenig
 bekannt und führt auch in Fachkreisen ein Schattendasein. Er ist aus den
 Reformbemühungen der ehemaligen Bundesrepublik Deutschland (BRD)
@@ -36,7 +35,7 @@ im psychiatrischen, psychotherapeutisch-psychosomatischen Bereiche
 zufolge <span class="citation">(Wikipedia 2020)</span>:
 
 1.  **Beratung:**
-    
+
     von Hilfesuchenden, Angehörigen und Personen des sozialen Umfeldes
     einschließlich betreuender oder behandelnder Institutionen
 
@@ -161,9 +160,3 @@ Wie es dann weitergeht, hängt maßgeblich davon ab, ob eine Beratung und
 im Weiteren ggf. Begleitung geboten ist, oder ob es sich um eine Krise
 mit entsprechend sofortigem Handlungsbedarf handelt. Das entsprechende
 weitere Vorgehen ist in den beiden folgenden Kapiteln dargestellt.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

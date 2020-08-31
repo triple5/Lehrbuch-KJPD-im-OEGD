@@ -3,19 +3,7 @@ layout: page
 title: Annex-Websites
 nav_order: 9
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 **AMDP-System**.
 [https://www.amdp.de/](https://www.google.com/url?q=https://www.amdp.de/&sa=D&ust=1589222668271000)
 
@@ -124,7 +112,3 @@ SL. **Gesetz Nr. 1301 über die Unterbringung psychisch Kranker**
 TH. **Thüringer Gesetz zur Hilfe und Unterbringung psychisch kranker
 Menschen** (ThürPsychKG).
 [http://landesrecht.thueringen.de/jportal/portal/t/xlt/page/bsthueprod.psml?pid=Dokumentanzeige\&showdoccase=1\&js\_peid=Trefferliste\&documentnumber=1\&numberofresults=54\&fromdoctodoc=yes\&doc.id=jlr-PsychKGTH2009rahmen\&doc.part=X\&doc.price=0.0\&doc.hl=1\#focuspoint](https://www.google.com/url?q=http://landesrecht.thueringen.de/jportal/portal/t/xlt/page/bsthueprod.psml?pid%3DDokumentanzeige%26showdoccase%3D1%26js_peid%3DTrefferliste%26documentnumber%3D1%26numberofresults%3D54%26fromdoctodoc%3Dyes%26doc.id%3Djlr-PsychKGTH2009rahmen%26doc.part%3DX%26doc.price%3D0.0%26doc.hl%3D1%23focuspoint&sa=D&ust=1589222668350000)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

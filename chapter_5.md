@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 04. Aufgaben der Sozialpsychiatrischen Dienste
+title: Aufgaben der Sozialpsychiatrischen Dienste
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 Die Aufgaben der SpDi sind:
 
 ## Kernaufgabe 1: Beratung / Begleitung
@@ -823,13 +822,13 @@ Funktion der Sozialpsychiatrischen Dienste spiegelt sich dabei wider in
 der Zusammenarbeit und Beratung und Aufklärung von u.a.:
 
   - Gemeinschaftseinrichtungen wie z.B.
-    
+
     \-- Obdachlosenheimen
-    
+
     \-- Einrichtungen für Asylbewerber
-    
+
     \-- Erstaufnahmeeinrichtungen
-    
+
     \-- Senioren-, und Pflegeheimen
 
 <!-- end list -->
@@ -977,7 +976,3 @@ Eingliederungshilfe- und Pflegeeinrichtung erfolgt unter Einbeziehung
 der fachlichen Kompetenz der Mitarbeiter des SpDi. Hier wird besonderer
 Augenmerk auf die Prüfung der Konzepte und deren Umsetzung sowie die
 Einhaltung von fachspezifischen Qualitätsstandards gelegt.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

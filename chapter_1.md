@@ -3,19 +3,19 @@ layout: page
 title: 00Startseite
 nav_order: 1
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Der Sozialpsychiatrische Dienst ist im Rahmen des psychosozialen
 Versorgungssystems in Deutschland der bekannteste Baustein. Er ist in
 der Regel Teil der kommunalen öffentlichen Gesundheitsversorgung.
@@ -45,8 +45,7 @@ freuen uns daher, wenn Sie uns Ihre Anregungen, Kommentare und
 Ergänzungen mitteilen. Senden Sie diese bitte an
 lehrbuch@akademie-oegw.de
 
-Wir nutzen
-**[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre
+Wir nutzen **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre
 Kommentare und Ergänzungen unseres Lehrbuches.
 
 <div class="section fnlist" data-role="doc-footnotes">

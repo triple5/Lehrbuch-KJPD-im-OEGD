@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 02. Grundlagen
+title: Grundlagen
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## **Psychiatrische Grundlagen**
 
 ### **Einleitung**
@@ -1642,15 +1641,15 @@ Die **Fremdgefährdung** im engeren Sinne ist:
     (Grundgesetz)
 
   - ***keine*** Fremdgefährdung:
-    
+
     \-- Belästigung
-    
+
     \-- Beleidigung
-    
+
     \-- querulatorische Verhaltensweisen
-    
+
     \-- lästige Verhaltensweisen
-    
+
     \-- Sachbeschädigung
 
   **Eigenfährdung** ist:
@@ -2649,11 +2648,3 @@ befasst sich institutionsungebunden mit persönlich, auch anonym
 formulierten Beschwerden gegen psychiatrisches Handeln. Die
 Beschwerdestellen können als neutrale Partner vermitteln und neben den
 allgemein wirksamen Patientenfürsprechern spezifischer tätig sein.
-
-## 
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

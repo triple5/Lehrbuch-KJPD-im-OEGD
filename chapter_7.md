@@ -1,21 +1,9 @@
 ---
 layout: page
-title: 06. Ausblick
+title: Ausblick
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 Trotz umfangreicher Aufgaben sind sozialpsychiatrische Dienste (SpDi) in
 der Öffentlichkeit und selbst in Fachkreisen nur wenig bekannt.
 
@@ -84,7 +72,3 @@ Netzwerkes Sozialpsychiatrischer Dienste mit seinen regionalen
 Netzwerken beigetragen. Es wird sich zeigen, inwieweit diese Arbeit
 Früchte tragen wird und somit Einfluss auf die kommunale
 Berücksichtigung der SpDi nehmen wird.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

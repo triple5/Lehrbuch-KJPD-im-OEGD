@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 05. Aspekte aus der Praxis
+title: Aspekte aus der Praxis
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 Im Folgenden werden verschiedene Aspekte aus der praktischen Arbeit der
 SpDi in Form von exemplarischen Handlungsabläufen, Fallbeschreibungen
 und Darstellung spezieller Problembereiche dargestellt.
@@ -123,23 +122,23 @@ anzuschließen, indem man anbietet:
 
 > *Folgende Formulierungen haben sich bewährt, um ein
 > Explorationsgespräch zu strukturieren:*
-> 
+>
 > *“...Das habe ich nicht verstanden, können Sie mir das näher
 > erklären?”*
-> 
+>
 > *“...Was meinen Sie damit?”*
-> 
+>
 > *“Was verstehen Sie darunter?”*
-> 
+>
 > *“Sie haben vorhin erwähnt, dass.....Wie meinen Sie das?”*
-> 
+>
 > *“Viele Patienten berichten, dass.....Kennen Sie das auch?”*
-> 
+>
 > *“Ich möchte Sie noch besser verstehen, daher frage ich noch einmal
 > genauer nach. ...”*
-> 
+>
 > *“Warum ist das mit Ihnen geschehen?”*
-> 
+>
 > *“Können Sie mir ein Beispiel nennen?”*
 
  In der gesamten Anamnese wird aus der Art und Weise der Darstellung des
@@ -1594,9 +1593,3 @@ Was ist, wenn gar nichts passiert?
 
   - Minimal intensive Intervention bei maximal extensiver
     Befriedungsfunktion
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

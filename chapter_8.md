@@ -3,19 +3,7 @@ layout: page
 title: Annex-Abkürzungen
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 **ABFB** Angebot zur Beschäftigung, Förderung und  Betreuung
 
 **ABW** ambulant betreutes Wohnen (d.h. in der eigenen Wohnung oder
@@ -188,7 +176,3 @@ zuständigen Leistungsträgers DRV (Deutsche Rentenversicherung)
 medizinische Rehabilitation belegt
 
 **WfMB** Werkstätten für Menschen mit Behinderungen
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

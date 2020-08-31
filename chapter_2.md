@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 01. Einführung
+title: Einführung
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Begriffsbestimmung
 
 ### Sozialpsychiatrie und Gemeindepsychiatrie
@@ -750,9 +749,3 @@ Versorgung die Kommunen bei der Erstellung ihres SpP zu unterstützen.
 Eine kommunale Psychiatrieberichterstattung und Versorgungsplanung
 könnten Motoren für die Zusammenarbeit im regionalen Verbund sein, wenn
 man sie verbindlich machen und partizipativ organisieren würde.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

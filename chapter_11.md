@@ -1,21 +1,9 @@
 ---
 layout: page
 title: b. Über uns
-nav_order: 11
+nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 Des Lehr- und Handbuch ist ein gemeinsames Projekt der [Akademie für
 Öffentliches
 Gesundheitswesen](https://www.akademie-oegw.de/startseite.html "https://www.akademie-oegw.de/startseite.html")
@@ -193,7 +181,3 @@ werden lediglich zu Informationszwecken bereitgestellt und stellen keine
 Billigung von Websites oder anderen Quellen dar. Die Leser sollten sich
 bewusst machen , dass sich die in diesem Lehrbuch aufgeführten Websites
 ändern können.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
