@@ -313,9 +313,7 @@ mitverantwortlich sowohl für den trialogisch zu gestaltenden Diskurs,
 als auch für eine praktikable und aussagekräftige regionale
 Psychiatrieberichterstattung.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Regionalmodell für ein abgestuftes Hilfesystem sozialer Infrastruktur">Regionalmodell
-für ein abgestuftes Hilfesystem sozialer
-Infrastruktur</span>](images/6bcad857-a414-46f3-8a9e-c87c1bf62664.jpg)
+{% include image.html url="images/6bcad857-a414-46f3-8a9e-c87c1bf62664.jpg" description="Abbildung 1: Regionalmodell für ein abgestuftes Hilfesystem sozialer Infrastruktur" %}
 
 Wesentlich für den Erfolg **kommunaler Psychiatrieplanung** ist die
 Verknüpfung der Ebenen individueller, institutioneller und regionaler
@@ -394,9 +392,7 @@ grenzenloses Verständnis oder eine fürsorgliche Belagerung genauso wie
 eine konfrontative Zuspitzung oder die Aufgabe der Beziehung zur
 hilfsbedürftigen Person. 
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Typologie therapeutischer Haltungen bei misslingendem Dialog">Typologie
-therapeutischer Haltungen bei misslingendem
-Dialog</span>](images/cdc827d5-aad0-4538-8997-e623c2d41054.jpg)
+{% include image.html url="images/cdc827d5-aad0-4538-8997-e623c2d41054.jpg" description="Abbildung 2: Typologie therapeutischer Haltungen bei misslingendem Dialog" %}
 
 ### Interdisziplinäres Team
 
@@ -486,9 +482,7 @@ Entwicklung der unterschiedlichen Hilfsangebote kam es allerdings zu
 erheblichen regionalen Ungleichheiten, verbunden mit deutlichen
 Anzeichen für Unter-, Über- und Fehlversorgung.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Akteure und Zentren der Zusammenarbeit in der Gemeindepsychiatrie">Akteure
-und Zentren der Zusammenarbeit in der
-Gemeindepsychiatrie</span>](images/8cef0f0b-f562-4612-b0cd-6c7eafe2228d.jpg)
+{% include image.html url="images/8cef0f0b-f562-4612-b0cd-6c7eafe2228d.jpg" description="Abbildung 3: Akteure und Zentren der Zusammenarbeit in der Gemeindepsychiatrie" %}
 
 Die zahlreichen Leistungsträger und Anbieter von Hilfen befinden sich in
 einer zunehmend marktwirtschaftlich geprägten Konkurrenz und arbeiten

@@ -50,9 +50,7 @@ Funktionsfähigkeit, Behinderung und Gesundheit (International
 Classification of Functioning, Disability and Health, ICF-mentale
 Funktionen; rehadat-icf.de) ergänzt.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Das bio-psycho-soziale Modell der ICF">Das
-bio-psycho-soziale Modell der
-ICF</span>](7dda62a1-96f2-4755-8705-186c7eb2c50b.jpg)
+{% include image.html url="images/7dda62a1-96f2-4755-8705-186c7eb2c50b.jpg" description="Abbildung 4: Das bio-psycho-soziale Modell der ICF" %}
 
 Insbesondere durch die Novellierung des SGB IX (Bundesteilhabegesetz ab
 01.01.2020) ist die Beschreibung der Teilhabestörung mit Hilfe der ICF
@@ -357,9 +355,7 @@ zwischenmenschlichen Verhalten, affektiver oder wahnhafter Natur, hinzu.
 Demenzen sind vorrangig Erkrankungen des alternden Menschen, wie die
 untenstehende Grafik zeigt.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Mittlere Erkrankungshäufigkeit nach Altersgruppen (Quelle: Deutsche Alzheimer Gesellschaft, 2019)">Mittlere
-Erkrankungshäufigkeit nach Altersgruppen (Quelle: Deutsche Alzheimer
-Gesellschaft, 2019)</span>](50613ce9-700c-418e-9e29-427581404f93.jpg)
+{% include image.html url="images/50613ce9-700c-418e-9e29-427581404f93.jpg" description="Abbildung 5: Mittlere Erkrankungshäufigkeit nach Altersgruppen (Quelle: Deutsche Alzheimer Gesellschaft, 2019)" %}
 
 Durch die bekannte demografische Entwicklung mit steigender
 Lebenserwartung und besserer gesundheitlicher Versorgung wird diese
@@ -596,7 +592,7 @@ Life-Events, Stressoren und langdauernde Konfliktsituationen zu sein,
 die den Krankheitsverlauf im Anfangsstadium beschleunigen und auch
 prolongieren können (Vulnerabilitäts-Stress-Modell).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Vulnerabilitäts-Stress-Modell">Vulnerabilitäts-Stress-Modell</span>](85abb4ee-df5a-40e6-b29b-d6874d350cc1.jpg)
+{% include image.html url="images/85abb4ee-df5a-40e6-b29b-d6874d350cc1.jpg" description="Abbildung 6: Vulnerabilitäts-Stress-Modell" %}
 
 Diese Tatsachen können wichtig sein in der psychoedukativen Aufklärung
 des Patienten wie des Umfelds.
@@ -947,9 +943,7 @@ In der Behandlung psychisch Kranker gilt es dem Leitgedanken ambulant
 vor stationär immer Rechnung zu tragen, vor allem auch mit dem Ziel
 Zwangsmaßnahmen wie Unterbringungen zu vermeiden (siehe Abbildung 4).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Leitgedanken für die Intervention in der Krise (nach Götz T.)">Leitgedanken
-für die Intervention in der Krise (nach Götz
-T.)</span>](08c6bc25-cc2e-4130-b7bc-25af9e550c0a.jpg)
+{% include image.html url="images/08c6bc25-cc2e-4130-b7bc-25af9e550c0a.jpg" description="Abbildung 7: Leitgedanken für die Intervention in der Krise (nach Götz T.)" %}
 
 Die Hilfen werden im Geist  der mit der Psychiatrie Enquete begonnenen
 und immer noch andauernden Reformbewegung gestaltet. Mit Unterzeichnung
@@ -1475,9 +1469,7 @@ der Grundlage des “rechtfertigenden Notstands” (§ 34 StGB) oder des
 “mutmaßlichen Willens” (BGHSt 40, 257) gehandelt werden. (siehe
 Fallbeispiele)
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Juristische Bezeichnungen, Unterbringung bei Eigen- und Fremdgefährdung.png">Juristische
-Bezeichnungen, Unterbringung bei Eigen- und
-Fremdgefährdung.png</span>](images/3e5d80a2-785e-49d6-93b7-0ca9e7d0ad2b.jpg)
+{% include image.html url="images3e5d80a2-785e-49d6-93b7-0ca9e7d0ad2b.jpg" description="Abbildung 8: Juristische Bezeichnungen, Unterbringung bei Eigen- und Fremdgefährdung.png" %}
 
 ### **Juristische Begrifflichkeiten bei Eigen- und Fremdgefährdung**
 
@@ -1786,8 +1778,7 @@ körperliche Unversehrtheit handelt.
 Dabei bestehen, wie im Fließschema dargestellt, grundsätzlich zwei
 Möglichkeiten zur Unterbringung nach dem BGB.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Vorgehen bei Selbstgefährdung">Vorgehen
-bei Selbstgefährdung</span>](d61c676d-6c9d-44f9-8907-1994c2968d93.jpg)
+{% include image.html url="images/d61c676d-6c9d-44f9-8907-1994c2968d93.jpg" description="Abbildung 9: Vorgehen bei Selbstgefährdung" %}
 
 Im normalen Verfahren stellt ein Betreuer oder Vollmachtnehmer einen
 Antrag auf Unterbringung des Betroffenen (bei Eigengefährdung) beim
@@ -1828,9 +1819,7 @@ Dabei erfolgen Unterbringungen immer unter dem Aspekt der
 Verhältnismäßigkeit als letzte Möglichkeit zur Gefahrenabwehr (siehe:
 Fließschema Eigen- und Fremdgefährdung).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Fließschema Eigen- und Fremdgefährdung">Fließschema
-Eigen- und
-Fremdgefährdung</span>](52536909-13af-46a5-befd-6127f85a7def.jpg)
+{% include image.html url="images/52536909-13af-46a5-befd-6127f85a7def.jpg" description="Abbildung 10: Fließschema Eigen- und Fremdgefährdung" %}
 
 Die Ausführung der Unterbringung geschieht zumeist über Anträge des
 zuständigen Ordnungsamts, Gesundheitsamts oder auch durch die Polizei.
@@ -2047,9 +2036,7 @@ professioneller Hilfen zur Überwindung einer Krise benötigt und desto
 intensiver müssen diese sein (Abbildung: Das Netzwerk sozialer
 Unterstützung und professioneller Hilfen).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Das Netzwerk sozialer Unterstützung und professioneller Hilfen">Das
-Netzwerk sozialer Unterstützung und professioneller
-Hilfen</span>](891e7ce8-e422-491d-b7d7-911508209ba2.jpg)
+{% include image.html url="images/891e7ce8-e422-491d-b7d7-911508209ba2.jpg" description="Abbildung 11: Das Netzwerk sozialer Unterstützung und professioneller Hilfen" %}
 
 In den letzten Jahrzehnten hat sich in Deutschland eine vielfältige
 Selbsthilfe-Szene mit zahlreichen Gruppen für verschiedenste
@@ -2148,9 +2135,7 @@ können sich in öffentlicher, privater oder freigemeinnütziger
 Trägerschaft befinden, die Zuständigkeiten der Leistungsträger regelt
 das Sozialgesetzbuch (SGB).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Netzwerk professioneller Hilfen für psychisch erkrankte Menschen">Netzwerk
-professioneller Hilfen für psychisch erkrankte
-Menschen</span>](297f1166-8977-4530-a51d-160108a861e4.jpg)
+{% include image.html url="images/297f1166-8977-4530-a51d-160108a861e4.jpg" description="Abbildung 12: Netzwerk professioneller Hilfen für psychisch erkrankte Menschen" %}
 
 Ein besonders Problem ist die ambulante psychosoziale Krisenintervention
 und psychiatrische Notfallhilfe, für die rund um die Uhr ein
@@ -2263,9 +2248,7 @@ erkrankter Menschen sind ebenso vielfältig wie die im Einzelfall
 eventuell geeigneten Instrumente, ihnen eine Teilhabe am Arbeitsleben zu
 ermöglichen (Abbildung 10).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Vielfalt der Ausgangslagen psychisch erkrankter Menschen">Vielfalt
-der Ausgangslagen psychisch erkrankter
-Menschen</span>](f3c427e1-dd06-480f-a44d-bb3245c57b4d.jpg)
+{% include image.html url="images/f3c427e1-dd06-480f-a44d-bb3245c57b4d.jpg" description="Abbildung 13: Vielfalt der Ausgangslagen psychisch erkrankter Menschen" %}
 
 Schwerpunkt der Beschäftigungsangebote für Menschen mit schwereren
 psychischen Beeinträchtigungen ist immer noch der „besondere"
@@ -2373,11 +2356,7 @@ betreut, der Ambulantisierungsgrad schwankt hier je nach Einzugsgebiet
 des Sozialhilfeträgers zwischen 47% und 91%; bei den anderen
 Behinderungsarten schwanken die Werte zwischen 11% und 49%.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Kennzeichen betreuter Wohnformen für psychisch kranke Menschen (modifiziert nach DGPPN (2013) S3-Leitlinie Psychosoziale Therapien bei schweren psychischen Erkrankungen)">Kennzeichen
-betreuter Wohnformen für psychisch kranke Menschen (modifiziert nach
-DGPPN (2013) S3-Leitlinie Psychosoziale Therapien bei schweren
-psychischen
-Erkrankungen)</span>](ae01bfcb-6ac4-4115-a02d-025eb261d73b.jpg)
+{% include image.html url="images/ae01bfcb-6ac4-4115-a02d-025eb261d73b.jpg" description="Abbildung 14: Kennzeichen betreuter Wohnformen für psychisch kranke Menschen (modifiziert nach DGPPN (2013) S3-Leitlinie Psychosoziale Therapien bei schweren psychischen Erkrankungen)" %}
 
 Das ambulant betreute Wohnen (abW, BEWO, BEW) als EGH-Leistung, auch
 „*mobil unterstütztes Wohnen*" genannt, zielt auf die Stabilisierung
@@ -2555,9 +2534,7 @@ individuelle, institutionelle, regionale und politische Planungsebene
 konkretisieren (Abbildung 12: Qualitätsentwicklung: Zirkelprozess auf
 verschiedenen Ebenen).
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Qualitätsentwicklung: Zirkelprozess auf verschiedenen Ebenen">Qualitätsentwicklung:
-Zirkelprozess auf verschiedenen
-Ebenen</span>](1a6a8359-7e41-48ec-aea1-3c9c5beaf2d7.jpg)
+{% include image.html url="images/1a6a8359-7e41-48ec-aea1-3c9c5beaf2d7.jpg" description="Abbildung 15: Qualitätsentwicklung: Zirkelprozess auf verschiedenen Ebenen" %}
 
 Für die regionale Steuerung der Versorgung müssen die
 Gebietskörperschaften Verantwortung übernehmen, ggf. in interkommunaler
