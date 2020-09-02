@@ -7,7 +7,7 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-title: Der Sozialpsychiatrischer Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst
+title: Der Sozialpsychiatrische Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 # Aux links for the upper right navigation
 aux_links:

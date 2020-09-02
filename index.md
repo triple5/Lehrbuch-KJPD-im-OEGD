@@ -4,8 +4,8 @@ title: Startseite
 nav_order: 1
 ---
 
-![Der Sozialpsychiatrischer Dienst Buch](images/cover.png "Der Sozialpsychiatrischer Dienst Buch"){:.imgcover}
-*Der Sozialpsychiatrischer Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+![Der Sozialpsychiatrische Dienst Buch](images/cover.png "Der Sozialpsychiatrische Dienst Buch"){:.imgcover}
+*Der Sozialpsychiatrische Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
 
 Der Sozialpsychiatrische Dienst ist im Rahmen des psychosozialen
 Versorgungssystems in Deutschland der bekannteste Baustein. Er ist in
