@@ -546,7 +546,7 @@ Behinderungen, die durch die Beschäftigung von entsprechend
 qualifizierten psychiatrie-erfahrenen Genesungsbegleitern gewährleistet
 werden kann.
 
-**Tabelle: Leistungsgruppen und die dafür zuständigen Träger
+**Tabelle 5: Leistungsgruppen und die dafür zuständigen Träger
 <span class="citation">(Bundesarbeitsgemeinschaft für Rehabilitation
 (BAR) e.V. 2019)</span>**
 
