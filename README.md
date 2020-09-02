@@ -1,6 +1,6 @@
 # Impressum
 
-<p>Der Sozialpsychiatrischer Dienst<br/>
+<p>Der Sozialpsychiatrische Dienst<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
 ISBN 978-3-9812871-6-5<br/>
 DOI <a href="https://doi.org/10.25815/aacp-4461" title="https://doi.org/10.25815/aacp-4461">10.25815/aacp-4461</a><br/>
