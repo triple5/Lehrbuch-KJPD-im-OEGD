@@ -74,7 +74,7 @@ Rehabilitationsrecht (SGB IX-neu, Teil 2, §§ 90-150)
 
 **EUTB** Ergänzende Unabhängige Teilhabe-Beratungsstelle
 
-**FEB** Familien- und Ehe-Beratungsstellen
+**FEB** Familien- und Erziehungs-Beratungsstellen
 
 **FNA** Forensische Nachsorge Ambulanz
 

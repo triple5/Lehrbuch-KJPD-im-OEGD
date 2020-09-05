@@ -2098,7 +2098,7 @@ Dazu zählen:
   - die Hausarztpraxen der kassenärztlichen Versorgung
 
   - verschiedenste psychosoziale Beratungsangebote durch kommunale
-    Sozialdienste, Familien- und Ehe-Beratungsstellen (FEB)
+    Sozialdienste, Familien- und Erziehungs-Beratungsstellen (FEB)
 
   - allgemeine Sozial- und Lebensberatungsstellen
 
