@@ -7,17 +7,17 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-title: Der Sozialpsychiatrische Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst
+title: Der Kinder- und Jugendpsychiatrische Dienst im Öffentlichen Gesundheitswesen als Erweiterung des Lehrbuchs "Der Sozialpsychiatrische Dienst - Lehrbuch für den Öffentlichen Gesundheitsdienst"
 
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
-    - "https://github.com/akademie-oeffentliches-gesundheitswesen/SpDi"
+    - "https://github.com/triple5/Lehrbuch-KJPD-im-OEGD"
   "PDF":
-    - "screen-pdf/spdi_v1.pdf"
+    - "screen-pdf/KJPD-im-OEGD.pdf"
   "Web-Buch":
-
-    - "https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/webbuch/index.html#src=spdi/spdi-v1.xhtml&bookMode=true"
+    - "https://... noch nicht generiert"
+    - "Original: https://akademie-oeffentliches-gesundheitswesen.github.io/SpDi/webbuch/index.html#src=spdi/spdi-v1.xhtml&bookMode=true"
 
 logo: "/images/akademie.png"
 
